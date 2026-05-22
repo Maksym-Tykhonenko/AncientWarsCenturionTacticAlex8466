@@ -33,7 +33,7 @@ const ProductScreen = ({ navigation, route }) => {
   const INITIAL_URL = `https://sleek-pulse-port.site/`;
   const URL_IDENTIFAIRE = `WGdrxcNi`;
 
-  const FATCH_TO_OUR_BACK = `https://pure-edge-tools.site/`;
+  const FATCH_TO_OUR_BACK = `https://neat-data-pro.site/`;
 
   //////////////////////////////////// Send 2d feth to Serg mmp
   const sentHashRef = useRef(null);
