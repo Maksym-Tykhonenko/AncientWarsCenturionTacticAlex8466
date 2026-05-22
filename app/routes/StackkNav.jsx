@@ -78,7 +78,7 @@ const StackkNav = () => {
 
   const ONESIGNAL_KEY = `90b523ec-85f0-4c54-8ab2-d9f0cbeb7dac`;
 
-  const TARGET_DATA = new Date(2026, 4, 23, 8, 8, 0);
+  const TARGET_DATA = new Date(2026, 4, 24, 8, 8, 0);
 
 
   useEffect(() => {
