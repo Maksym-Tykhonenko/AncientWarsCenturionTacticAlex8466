@@ -1,0 +1,173 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "app/assets/fonts/Cinzel-Black.ttf",
+      "sha1": "38ac576cc25bdb4aeba45ec9f79e6cfc9d5cb754"
+    },
+    {
+      "path": "app/assets/fonts/Cinzel-Bold.ttf",
+      "sha1": "b88b6bb7c15bc9c8b1a049f40b6c716a5d3c0672"
+    },
+    {
+      "path": "app/assets/fonts/Cinzel-ExtraBold.ttf",
+      "sha1": "dec4bbb4c34f8c308cbc6863938169e55dd2ec5f"
+    },
+    {
+      "path": "app/assets/fonts/Cinzel-Medium.ttf",
+      "sha1": "461f559b5df84aa8cabca9fbea702275c00cdce8"
+    },
+    {
+      "path": "app/assets/fonts/Cinzel-Regular.ttf",
+      "sha1": "e69b593cf3181656bb3634477f0ceb0089846645"
+    },
+    {
+      "path": "app/assets/fonts/Cinzel-SemiBold.ttf",
+      "sha1": "4b4d4822a26728e680a5f0ea9a8957ca2d5c84d2"
+    },
+    {
+      "path": "app/assets/images/appbg.png",
+      "sha1": "db74933fb1092ed36a03a132ed4d4d01c9b70fe9"
+    },
+    {
+      "path": "app/assets/images/appicon.png",
+      "sha1": "ddd4f122d5411420aed65a411b1b46a68371a0ae"
+    },
+    {
+      "path": "app/assets/images/battleactium.png",
+      "sha1": "28cc4a7d0c08c0dd7c9854c3d13b1a7f1eb63efe"
+    },
+    {
+      "path": "app/assets/images/battleaegospotami.png",
+      "sha1": "c2b1b376d5e295966001e8291905843a7341b2c4"
+    },
+    {
+      "path": "app/assets/images/battlearbela.png",
+      "sha1": "196f99dcbaa2ac83a39f30b4df9b79898bbce8a9"
+    },
+    {
+      "path": "app/assets/images/battlebethoron.png",
+      "sha1": "f248c23ab64be3da775bef61d9404c53a4ab7113"
+    },
+    {
+      "path": "app/assets/images/battlecannae.png",
+      "sha1": "26cb34a91d1d9a60eff911d98a79bd2df78de5fa"
+    },
+    {
+      "path": "app/assets/images/battlecarrhae.png",
+      "sha1": "370b7ad9c6161d3e356d46a6c3466c9fa353d1c6"
+    },
+    {
+      "path": "app/assets/images/battlechaeronea.png",
+      "sha1": "bd7c764640599c62f7a65ce4577162a792d534ca"
+    },
+    {
+      "path": "app/assets/images/battlecynoscephalae.png",
+      "sha1": "a07b3b53a4eb867e260a39077dde99db75aa7edb"
+    },
+    {
+      "path": "app/assets/images/battledelium.png",
+      "sha1": "993f7d2d36ab91eaa3ce1d01c6a091e86fa1bd12"
+    },
+    {
+      "path": "app/assets/images/battlegaugamela.png",
+      "sha1": "4ef64b7018935813a291444e7f6b03d79ebbea5a"
+    },
+    {
+      "path": "app/assets/images/battlegranicus.png",
+      "sha1": "676c20b582bda28cc6bb1812cbf9c8563f6caacf"
+    },
+    {
+      "path": "app/assets/images/battlehimera.png",
+      "sha1": "431c67a7367e4c2bbaedd5081efce55374cba967"
+    },
+    {
+      "path": "app/assets/images/battlehydaspes.png",
+      "sha1": "67c7fe0af82c13a0f01f0762205dd1d45999108d"
+    },
+    {
+      "path": "app/assets/images/battleissus.png",
+      "sha1": "67e14ee081f43e66845e9fda208766fc9b11073c"
+    },
+    {
+      "path": "app/assets/images/battleleuctra.png",
+      "sha1": "35534932a02a32d668063097a9281d7f7bddee96"
+    },
+    {
+      "path": "app/assets/images/battlemagnesia.png",
+      "sha1": "51e217e7b6a33a8cfd841db0bf41a45490978d67"
+    },
+    {
+      "path": "app/assets/images/battlemantinea.png",
+      "sha1": "35eb1e13507bcf18cb21d1c00a6a950c3201a2f6"
+    },
+    {
+      "path": "app/assets/images/battlemarathon.png",
+      "sha1": "e8026e2cf23cccc400373f0e4ae9db1376a4cec2"
+    },
+    {
+      "path": "app/assets/images/battlemycale.png",
+      "sha1": "e9613d14fe98467459b26672c861893412231b04"
+    },
+    {
+      "path": "app/assets/images/battleplataea.png",
+      "sha1": "2291fdb263fb2d9a43117efcdb76b948af2c8a7a"
+    },
+    {
+      "path": "app/assets/images/battlepydna.png",
+      "sha1": "b310624b61efed4d301de4ad922a02b3d23334d4"
+    },
+    {
+      "path": "app/assets/images/battlesalamis.png",
+      "sha1": "2c28abc5c34ea30c4e66835743d34e79e003f064"
+    },
+    {
+      "path": "app/assets/images/battletrasimene.png",
+      "sha1": "40a9cf8ee016005491af6a372f4785ebe25f7c94"
+    },
+    {
+      "path": "app/assets/images/battlezama.png",
+      "sha1": "2c9e892fcd5b953d9ad60733951a398ccd1cab61"
+    },
+    {
+      "path": "app/assets/images/bottomtabs1.png",
+      "sha1": "c75bb9cfd4bd038c69aa85314cd5e858717d2fff"
+    },
+    {
+      "path": "app/assets/images/bottomtabs2.png",
+      "sha1": "dae28bca9a06635dd8c552bb3e789f8a14bc41ff"
+    },
+    {
+      "path": "app/assets/images/bottomtabs3.png",
+      "sha1": "4a29e0034fb39cd2d75e1000af17ad641f973d18"
+    },
+    {
+      "path": "app/assets/images/bottomtabs4.png",
+      "sha1": "0cc96c4d41eae04f087a080277e30258d22a6b14"
+    },
+    {
+      "path": "app/assets/images/bottomtabs5.png",
+      "sha1": "30d6d015e0e936a01e0dc6a5131462cced71fc48"
+    },
+    {
+      "path": "app/assets/images/loaderbg.png",
+      "sha1": "7e8c2c648955e039f6bb5f107e53759f764561b7"
+    },
+    {
+      "path": "app/assets/images/onboardinghero1.png",
+      "sha1": "e9bf3f4e0d16f508756ccd77eb9efe204bed07a3"
+    },
+    {
+      "path": "app/assets/images/onboardinghero2.png",
+      "sha1": "b5c0201f6febedad97a463b9f3a1440d3ce1145b"
+    },
+    {
+      "path": "app/assets/images/onboardinghero3.png",
+      "sha1": "ddd4f122d5411420aed65a411b1b46a68371a0ae"
+    },
+    {
+      "path": "app/assets/images/shareicon.png",
+      "sha1": "4a4dcfb743181e2c32a3eca7df52a1be819828f0"
+    }
+  ]
+}

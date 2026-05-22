@@ -1,0 +1,28 @@
+import type {ImageSourcePropType} from 'react-native';
+
+export const BATTLE_IMAGES: Record<string, ImageSourcePropType> = {
+  marathon: require('./images/battlemarathon.png'),
+  gaugamela: require('./images/battlegaugamela.png'),
+  cannae: require('./images/battlecannae.png'),
+  zama: require('./images/battlezama.png'),
+  salamis: require('./images/battlesalamis.png'),
+  plataea: require('./images/battleplataea.png'),
+  issus: require('./images/battleissus.png'),
+  chaeronea: require('./images/battlechaeronea.png'),
+  hydaspes: require('./images/battlehydaspes.png'),
+  aegospotami: require('./images/battleaegospotami.png'),
+  leuctra: require('./images/battleleuctra.png'),
+  actium: require('./images/battleactium.png'),
+  carrhae: require('./images/battlecarrhae.png'),
+  trasimene: require('./images/battletrasimene.png'),
+  cynoscephalae: require('./images/battlecynoscephalae.png'),
+  arbela: require('./images/battlearbela.png'),
+  granicus: require('./images/battlegranicus.png'),
+  mycale: require('./images/battlemycale.png'),
+  himera: require('./images/battlehimera.png'),
+  delium: require('./images/battledelium.png'),
+  mantinea: require('./images/battlemantinea.png'),
+  pydna: require('./images/battlepydna.png'),
+  magnesia: require('./images/battlemagnesia.png'),
+  bethoron: require('./images/battlebethoron.png'),
+};

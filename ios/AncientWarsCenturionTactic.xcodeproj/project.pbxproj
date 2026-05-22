@@ -1,0 +1,668 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 54;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0401A83448D046DE94673942 /* battleissus.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CC91C9B5A764FFAAF865E4C /* battleissus.png */; };
+		08535F2F64A5407A997B3657 /* battlecarrhae.png in Resources */ = {isa = PBXBuildFile; fileRef = C9C3A6E3E7F647989558DA55 /* battlecarrhae.png */; };
+		0C80B921A6F3F58F76C31292 /* libPods-AncientWarsCenturionTactic.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-AncientWarsCenturionTactic.a */; };
+		1184C96B3D834CDB8C282175 /* battleplataea.png in Resources */ = {isa = PBXBuildFile; fileRef = AFA23A948FAC4C05B8F1411E /* battleplataea.png */; };
+		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
+		17908C9B264F4C6E81CB3176 /* battlesalamis.png in Resources */ = {isa = PBXBuildFile; fileRef = 35CB368FAC684FDC9603C1AF /* battlesalamis.png */; };
+		212FFDD04F3F49059358E349 /* bottomtabs5.png in Resources */ = {isa = PBXBuildFile; fileRef = 061655FF4A1343409F2ACF99 /* bottomtabs5.png */; };
+		21A3DEF7E3D047BD964657AC /* battlegaugamela.png in Resources */ = {isa = PBXBuildFile; fileRef = 14DB4751CD274BE4B291FE26 /* battlegaugamela.png */; };
+		22CBDF35548849F4B3962796 /* battlehimera.png in Resources */ = {isa = PBXBuildFile; fileRef = 1D3A85AA0D54467F842A1D76 /* battlehimera.png */; };
+		2B4A5F463A784FE6A5A0B046 /* Cinzel-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4A93C9EBA46F4425B426E9FF /* Cinzel-ExtraBold.ttf */; };
+		2BA67ABC74BA44A6BDD0501E /* onboardinghero2.png in Resources */ = {isa = PBXBuildFile; fileRef = B73743DA1CBD45F095A0FE15 /* onboardinghero2.png */; };
+		2BB484AD9D2D48BD9B5BCEA4 /* Cinzel-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1D7D189E3A1945BCBCE0C614 /* Cinzel-Regular.ttf */; };
+		34F1BEC6A9E34017A254C703 /* battlearbela.png in Resources */ = {isa = PBXBuildFile; fileRef = EB7582A3076E4CCE897B76E3 /* battlearbela.png */; };
+		377C578F95244A7BA0A2D30D /* battlemarathon.png in Resources */ = {isa = PBXBuildFile; fileRef = DC6088A7429A47DEA0DD9506 /* battlemarathon.png */; };
+		3A9F37E8A96E4707852A90A3 /* battledelium.png in Resources */ = {isa = PBXBuildFile; fileRef = 868B4D95660F4052BF2E7449 /* battledelium.png */; };
+		3C1D97D285DF48A4898240B7 /* Cinzel-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 328E19993BC441AEBB0E3C7D /* Cinzel-SemiBold.ttf */; };
+		3C868FCEEC60447AAF533898 /* Cinzel-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9C21962481B44601A9CB562C /* Cinzel-Medium.ttf */; };
+		42D9F9B2C1014B8F96328839 /* onboardinghero1.png in Resources */ = {isa = PBXBuildFile; fileRef = 10AA504A8A4242A3BD169D2D /* onboardinghero1.png */; };
+		569FA6109AB749C7A47EFE11 /* appbg.png in Resources */ = {isa = PBXBuildFile; fileRef = 109F8C39D088477C8D2E0573 /* appbg.png */; };
+		59E24EAD468548289E7136F7 /* Cinzel-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4FC5579ED69B49A5AB259AE4 /* Cinzel-Bold.ttf */; };
+		65929FB43A914FB8BB6E5D22 /* appicon.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D53830CB8D24869B29B6F12 /* appicon.png */; };
+		7400EF374265438688A6110C /* onboardinghero3.png in Resources */ = {isa = PBXBuildFile; fileRef = 2FCB3C8810224C91BAF19222 /* onboardinghero3.png */; };
+		761780ED2CA45674006654EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761780EC2CA45674006654EE /* AppDelegate.swift */; };
+		7B5EBB8C8BE641659B2DA988 /* battlezama.png in Resources */ = {isa = PBXBuildFile; fileRef = 67B6446C661B494CAF75D3AD /* battlezama.png */; };
+		7F0B748182794C5189C75630 /* battlemantinea.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E810ACC7A014F39A5C92DF4 /* battlemantinea.png */; };
+		802BE66973CE41CCB6CE3894 /* battlemycale.png in Resources */ = {isa = PBXBuildFile; fileRef = 8436126F2F15402999E153C3 /* battlemycale.png */; };
+		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		8C00967713AE43169E8A9C77 /* battlepydna.png in Resources */ = {isa = PBXBuildFile; fileRef = 3033B9A7C9AD44DF87B86C7A /* battlepydna.png */; };
+		8D7C81F8827F424E8806AFE7 /* bottomtabs4.png in Resources */ = {isa = PBXBuildFile; fileRef = ED8BB6A7C2B34FF59D08CA96 /* bottomtabs4.png */; };
+		9E0F6733E7404E2AAE897C5F /* battleleuctra.png in Resources */ = {isa = PBXBuildFile; fileRef = 38FF04C92811438989A09EEE /* battleleuctra.png */; };
+		A29D2398AF164D808A7FEA23 /* battlecynoscephalae.png in Resources */ = {isa = PBXBuildFile; fileRef = D5DBB07B70A4475B9178A610 /* battlecynoscephalae.png */; };
+		A7F88F4F343245BE85E78AF5 /* battlehydaspes.png in Resources */ = {isa = PBXBuildFile; fileRef = ADB9E80CF2564C0791FCA75D /* battlehydaspes.png */; };
+		ACBD591D071A4036A2D69F68 /* loaderbg.png in Resources */ = {isa = PBXBuildFile; fileRef = 8BA43C2DA11B4B34B0B63821 /* loaderbg.png */; };
+		B7CA399DCB5D47B3985F4D30 /* bottomtabs1.png in Resources */ = {isa = PBXBuildFile; fileRef = 80C08697EB1143EB8B02AD19 /* bottomtabs1.png */; };
+		BE7F6580E47E4B3AB6A82E7A /* Cinzel-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9DBB9BD8D8F14FE9B3A4F5E0 /* Cinzel-Black.ttf */; };
+		C1628DC194B74EBEAF7B8E21 /* shareicon.png in Resources */ = {isa = PBXBuildFile; fileRef = DE25F9381C4547749D0FDA9A /* shareicon.png */; };
+		C2CB19A86B3A4982B8C34540 /* battletrasimene.png in Resources */ = {isa = PBXBuildFile; fileRef = 23A7F971638046C88AA43625 /* battletrasimene.png */; };
+		C6A1E2DADC0C4B48ADD9ACF7 /* battlemagnesia.png in Resources */ = {isa = PBXBuildFile; fileRef = 2EA37B42F21B43A1BF664A6F /* battlemagnesia.png */; };
+		CA066750B5FC46BCAFE9CA71 /* battlebethoron.png in Resources */ = {isa = PBXBuildFile; fileRef = DB99CD8CE7E54F42B4A5BB2A /* battlebethoron.png */; };
+		CCB0FAF2ACB937E5C6715098 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */; };
+		CDB979AE1B124CF187A9AFCD /* battleaegospotami.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B15DDA0CEF142378A73DEF0 /* battleaegospotami.png */; };
+		DCD33B7487C44BDFAA1BADEA /* battleactium.png in Resources */ = {isa = PBXBuildFile; fileRef = E8CB168532584844AABC0668 /* battleactium.png */; };
+		DE1D627B440146CD8BBB2A29 /* battlechaeronea.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F7BCAAAE7984486A3E732ED /* battlechaeronea.png */; };
+		EDC9E87F9C88496EAEBAAAD3 /* bottomtabs2.png in Resources */ = {isa = PBXBuildFile; fileRef = 5EA8E01CDE6E46BDA6E560F7 /* bottomtabs2.png */; };
+		F2D80C92AB7F4543A02DFC55 /* battlecannae.png in Resources */ = {isa = PBXBuildFile; fileRef = CC548A70655044288A0E7870 /* battlecannae.png */; };
+		FCCE9B6FFF064A0A86632D32 /* bottomtabs3.png in Resources */ = {isa = PBXBuildFile; fileRef = 57E44B53CAD145E5A4835357 /* bottomtabs3.png */; };
+		FEA4A25C34BF4F628FD960C1 /* battlegranicus.png in Resources */ = {isa = PBXBuildFile; fileRef = B44B7ECE4BC44AD2ADD06CDA /* battlegranicus.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		061655FF4A1343409F2ACF99 /* bottomtabs5.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = bottomtabs5.png; path = ../app/assets/images/bottomtabs5.png; sourceTree = "<group>"; };
+		109F8C39D088477C8D2E0573 /* appbg.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = appbg.png; path = ../app/assets/images/appbg.png; sourceTree = "<group>"; };
+		10AA504A8A4242A3BD169D2D /* onboardinghero1.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = onboardinghero1.png; path = ../app/assets/images/onboardinghero1.png; sourceTree = "<group>"; };
+		13B07F961A680F5B00A75B9A /* AncientWarsCenturionTactic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AncientWarsCenturionTactic.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = AncientWarsCenturionTactic/Images.xcassets; sourceTree = "<group>"; };
+		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = AncientWarsCenturionTactic/Info.plist; sourceTree = "<group>"; };
+		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = AncientWarsCenturionTactic/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		14DB4751CD274BE4B291FE26 /* battlegaugamela.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = battlegaugamela.png; path = ../app/assets/images/battlegaugamela.png; sourceTree = "<group>"; };
+		1D3A85AA0D54467F842A1D76 /* battlehimera.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = battlehimera.png; path = ../app/assets/images/battlehimera.png; sourceTree = "<group>"; };
+		1D7D189E3A1945BCBCE0C614 /* Cinzel-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Cinzel-Regular.ttf"; path = "../app/assets/fonts/Cinzel-Regular.ttf"; sourceTree = "<group>"; };
+		23A7F971638046C88AA43625 /* battletrasimene.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = battletrasimene.png; path = ../app/assets/images/battletrasimene.png; sourceTree = "<group>"; };
+		2EA37B42F21B43A1BF664A6F /* battlemagnesia.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = battlemagnesia.png; path = ../app/assets/images/battlemagnesia.png; sourceTree = "<group>"; };
+		2FCB3C8810224C91BAF19222 /* onboardinghero3.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = onboardinghero3.png; path = ../app/assets/images/onboardinghero3.png; sourceTree = "<group>"; };
+		3033B9A7C9AD44DF87B86C7A /* battlepydna.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = battlepydna.png; path = ../app/assets/images/battlepydna.png; sourceTree = "<group>"; };
+		328E19993BC441AEBB0E3C7D /* Cinzel-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Cinzel-SemiBold.ttf"; path = "../app/assets/fonts/Cinzel-SemiBold.ttf"; sourceTree = "<group>"; };
+		35CB368FAC684FDC9603C1AF /* battlesalamis.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = battlesalamis.png; path = ../app/assets/images/battlesalamis.png; sourceTree = "<group>"; };
+		38FF04C92811438989A09EEE /* battleleuctra.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = battleleuctra.png; path = ../app/assets/images/battleleuctra.png; sourceTree = "<group>"; };
+		3B4392A12AC88292D35C810B /* Pods-AncientWarsCenturionTactic.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AncientWarsCenturionTactic.debug.xcconfig"; path = "Target Support Files/Pods-AncientWarsCenturionTactic/Pods-AncientWarsCenturionTactic.debug.xcconfig"; sourceTree = "<group>"; };
+		3E810ACC7A014F39A5C92DF4 /* battlemantinea.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = battlemantinea.png; path = ../app/assets/images/battlemantinea.png; sourceTree = "<group>"; };
+		4A93C9EBA46F4425B426E9FF /* Cinzel-ExtraBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Cinzel-ExtraBold.ttf"; path = "../app/assets/fonts/Cinzel-ExtraBold.ttf"; sourceTree = "<group>"; };
+		4F7BCAAAE7984486A3E732ED /* battlechaeronea.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = battlechaeronea.png; path = ../app/assets/images/battlechaeronea.png; sourceTree = "<group>"; };
+		4FC5579ED69B49A5AB259AE4 /* Cinzel-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Cinzel-Bold.ttf"; path = "../app/assets/fonts/Cinzel-Bold.ttf"; sourceTree = "<group>"; };
+		5709B34CF0A7D63546082F79 /* Pods-AncientWarsCenturionTactic.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AncientWarsCenturionTactic.release.xcconfig"; path = "Target Support Files/Pods-AncientWarsCenturionTactic/Pods-AncientWarsCenturionTactic.release.xcconfig"; sourceTree = "<group>"; };
+		57E44B53CAD145E5A4835357 /* bottomtabs3.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = bottomtabs3.png; path = ../app/assets/images/bottomtabs3.png; sourceTree = "<group>"; };
+		5D53830CB8D24869B29B6F12 /* appicon.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = appicon.png; path = ../app/assets/images/appicon.png; sourceTree = "<group>"; };
+		5DCACB8F33CDC322A6C60F78 /* libPods-AncientWarsCenturionTactic.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-AncientWarsCenturionTactic.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5EA8E01CDE6E46BDA6E560F7 /* bottomtabs2.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = bottomtabs2.png; path = ../app/assets/images/bottomtabs2.png; sourceTree = "<group>"; };
+		6084D45B2FC0439B00E273A3 /* AncientWarsCenturionTactic.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; name = AncientWarsCenturionTactic.entitlements; path = AncientWarsCenturionTactic/AncientWarsCenturionTactic.entitlements; sourceTree = "<group>"; };
+		67B6446C661B494CAF75D3AD /* battlezama.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = battlezama.png; path = ../app/assets/images/battlezama.png; sourceTree = "<group>"; };
+		761780EC2CA45674006654EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = AncientWarsCenturionTactic/AppDelegate.swift; sourceTree = "<group>"; };
+		7CC91C9B5A764FFAAF865E4C /* battleissus.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = battleissus.png; path = ../app/assets/images/battleissus.png; sourceTree = "<group>"; };
+		80C08697EB1143EB8B02AD19 /* bottomtabs1.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = bottomtabs1.png; path = ../app/assets/images/bottomtabs1.png; sourceTree = "<group>"; };
+		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = AncientWarsCenturionTactic/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		8436126F2F15402999E153C3 /* battlemycale.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = battlemycale.png; path = ../app/assets/images/battlemycale.png; sourceTree = "<group>"; };
+		868B4D95660F4052BF2E7449 /* battledelium.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = battledelium.png; path = ../app/assets/images/battledelium.png; sourceTree = "<group>"; };
+		8BA43C2DA11B4B34B0B63821 /* loaderbg.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = loaderbg.png; path = ../app/assets/images/loaderbg.png; sourceTree = "<group>"; };
+		9B15DDA0CEF142378A73DEF0 /* battleaegospotami.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = battleaegospotami.png; path = ../app/assets/images/battleaegospotami.png; sourceTree = "<group>"; };
+		9C21962481B44601A9CB562C /* Cinzel-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Cinzel-Medium.ttf"; path = "../app/assets/fonts/Cinzel-Medium.ttf"; sourceTree = "<group>"; };
+		9DBB9BD8D8F14FE9B3A4F5E0 /* Cinzel-Black.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Cinzel-Black.ttf"; path = "../app/assets/fonts/Cinzel-Black.ttf"; sourceTree = "<group>"; };
+		ADB9E80CF2564C0791FCA75D /* battlehydaspes.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = battlehydaspes.png; path = ../app/assets/images/battlehydaspes.png; sourceTree = "<group>"; };
+		AFA23A948FAC4C05B8F1411E /* battleplataea.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = battleplataea.png; path = ../app/assets/images/battleplataea.png; sourceTree = "<group>"; };
+		B44B7ECE4BC44AD2ADD06CDA /* battlegranicus.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = battlegranicus.png; path = ../app/assets/images/battlegranicus.png; sourceTree = "<group>"; };
+		B73743DA1CBD45F095A0FE15 /* onboardinghero2.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = onboardinghero2.png; path = ../app/assets/images/onboardinghero2.png; sourceTree = "<group>"; };
+		C9C3A6E3E7F647989558DA55 /* battlecarrhae.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = battlecarrhae.png; path = ../app/assets/images/battlecarrhae.png; sourceTree = "<group>"; };
+		CC548A70655044288A0E7870 /* battlecannae.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = battlecannae.png; path = ../app/assets/images/battlecannae.png; sourceTree = "<group>"; };
+		D5DBB07B70A4475B9178A610 /* battlecynoscephalae.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = battlecynoscephalae.png; path = ../app/assets/images/battlecynoscephalae.png; sourceTree = "<group>"; };
+		DB99CD8CE7E54F42B4A5BB2A /* battlebethoron.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = battlebethoron.png; path = ../app/assets/images/battlebethoron.png; sourceTree = "<group>"; };
+		DC6088A7429A47DEA0DD9506 /* battlemarathon.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = battlemarathon.png; path = ../app/assets/images/battlemarathon.png; sourceTree = "<group>"; };
+		DE25F9381C4547749D0FDA9A /* shareicon.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = shareicon.png; path = ../app/assets/images/shareicon.png; sourceTree = "<group>"; };
+		E8CB168532584844AABC0668 /* battleactium.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = battleactium.png; path = ../app/assets/images/battleactium.png; sourceTree = "<group>"; };
+		EB7582A3076E4CCE897B76E3 /* battlearbela.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = battlearbela.png; path = ../app/assets/images/battlearbela.png; sourceTree = "<group>"; };
+		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		ED8BB6A7C2B34FF59D08CA96 /* bottomtabs4.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = bottomtabs4.png; path = ../app/assets/images/bottomtabs4.png; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		13B07F8C1A680F5B00A75B9A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0C80B921A6F3F58F76C31292 /* libPods-AncientWarsCenturionTactic.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		13B07FAE1A68108700A75B9A /* AncientWarsCenturionTactic */ = {
+			isa = PBXGroup;
+			children = (
+				6084D45B2FC0439B00E273A3 /* AncientWarsCenturionTactic.entitlements */,
+				13B07FB51A68108700A75B9A /* Images.xcassets */,
+				761780EC2CA45674006654EE /* AppDelegate.swift */,
+				13B07FB61A68108700A75B9A /* Info.plist */,
+				81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */,
+				13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */,
+			);
+			name = AncientWarsCenturionTactic;
+			sourceTree = "<group>";
+		};
+		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
+				5DCACB8F33CDC322A6C60F78 /* libPods-AncientWarsCenturionTactic.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Libraries;
+			sourceTree = "<group>";
+		};
+		83CBB9F61A601CBA00E9B192 = {
+			isa = PBXGroup;
+			children = (
+				13B07FAE1A68108700A75B9A /* AncientWarsCenturionTactic */,
+				832341AE1AAA6A7D00B99B32 /* Libraries */,
+				83CBBA001A601CBA00E9B192 /* Products */,
+				2D16E6871FA4F8E400B85C8A /* Frameworks */,
+				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				F15E084DD526462888306D70 /* Resources */,
+			);
+			indentWidth = 2;
+			sourceTree = "<group>";
+			tabWidth = 2;
+			usesTabs = 0;
+		};
+		83CBBA001A601CBA00E9B192 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				13B07F961A680F5B00A75B9A /* AncientWarsCenturionTactic.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				3B4392A12AC88292D35C810B /* Pods-AncientWarsCenturionTactic.debug.xcconfig */,
+				5709B34CF0A7D63546082F79 /* Pods-AncientWarsCenturionTactic.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		F15E084DD526462888306D70 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				061655FF4A1343409F2ACF99 /* bottomtabs5.png */,
+				ED8BB6A7C2B34FF59D08CA96 /* bottomtabs4.png */,
+				57E44B53CAD145E5A4835357 /* bottomtabs3.png */,
+				5EA8E01CDE6E46BDA6E560F7 /* bottomtabs2.png */,
+				8BA43C2DA11B4B34B0B63821 /* loaderbg.png */,
+				80C08697EB1143EB8B02AD19 /* bottomtabs1.png */,
+				9DBB9BD8D8F14FE9B3A4F5E0 /* Cinzel-Black.ttf */,
+				4FC5579ED69B49A5AB259AE4 /* Cinzel-Bold.ttf */,
+				328E19993BC441AEBB0E3C7D /* Cinzel-SemiBold.ttf */,
+				9C21962481B44601A9CB562C /* Cinzel-Medium.ttf */,
+				1D7D189E3A1945BCBCE0C614 /* Cinzel-Regular.ttf */,
+				4A93C9EBA46F4425B426E9FF /* Cinzel-ExtraBold.ttf */,
+				109F8C39D088477C8D2E0573 /* appbg.png */,
+				2FCB3C8810224C91BAF19222 /* onboardinghero3.png */,
+				B73743DA1CBD45F095A0FE15 /* onboardinghero2.png */,
+				5D53830CB8D24869B29B6F12 /* appicon.png */,
+				10AA504A8A4242A3BD169D2D /* onboardinghero1.png */,
+				14DB4751CD274BE4B291FE26 /* battlegaugamela.png */,
+				1D3A85AA0D54467F842A1D76 /* battlehimera.png */,
+				67B6446C661B494CAF75D3AD /* battlezama.png */,
+				AFA23A948FAC4C05B8F1411E /* battleplataea.png */,
+				E8CB168532584844AABC0668 /* battleactium.png */,
+				ADB9E80CF2564C0791FCA75D /* battlehydaspes.png */,
+				35CB368FAC684FDC9603C1AF /* battlesalamis.png */,
+				DE25F9381C4547749D0FDA9A /* shareicon.png */,
+				2EA37B42F21B43A1BF664A6F /* battlemagnesia.png */,
+				4F7BCAAAE7984486A3E732ED /* battlechaeronea.png */,
+				8436126F2F15402999E153C3 /* battlemycale.png */,
+				3033B9A7C9AD44DF87B86C7A /* battlepydna.png */,
+				868B4D95660F4052BF2E7449 /* battledelium.png */,
+				B44B7ECE4BC44AD2ADD06CDA /* battlegranicus.png */,
+				CC548A70655044288A0E7870 /* battlecannae.png */,
+				3E810ACC7A014F39A5C92DF4 /* battlemantinea.png */,
+				C9C3A6E3E7F647989558DA55 /* battlecarrhae.png */,
+				23A7F971638046C88AA43625 /* battletrasimene.png */,
+				DC6088A7429A47DEA0DD9506 /* battlemarathon.png */,
+				9B15DDA0CEF142378A73DEF0 /* battleaegospotami.png */,
+				38FF04C92811438989A09EEE /* battleleuctra.png */,
+				D5DBB07B70A4475B9178A610 /* battlecynoscephalae.png */,
+				7CC91C9B5A764FFAAF865E4C /* battleissus.png */,
+				DB99CD8CE7E54F42B4A5BB2A /* battlebethoron.png */,
+				EB7582A3076E4CCE897B76E3 /* battlearbela.png */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		13B07F861A680F5B00A75B9A /* AncientWarsCenturionTactic */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "AncientWarsCenturionTactic" */;
+			buildPhases = (
+				C38B50BA6285516D6DCD4F65 /* [CP] Check Pods Manifest.lock */,
+				13B07F871A680F5B00A75B9A /* Sources */,
+				13B07F8C1A680F5B00A75B9A /* Frameworks */,
+				13B07F8E1A680F5B00A75B9A /* Resources */,
+				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
+				00EEFC60759A1932668264C0 /* [CP] Embed Pods Frameworks */,
+				E235C05ADACE081382539298 /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = AncientWarsCenturionTactic;
+			productName = AncientWarsCenturionTactic;
+			productReference = 13B07F961A680F5B00A75B9A /* AncientWarsCenturionTactic.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		83CBB9F71A601CBA00E9B192 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1210;
+				TargetAttributes = {
+					13B07F861A680F5B00A75B9A = {
+						LastSwiftMigration = 1120;
+					};
+				};
+			};
+			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "AncientWarsCenturionTactic" */;
+			compatibilityVersion = "Xcode 12.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 83CBB9F61A601CBA00E9B192;
+			productRefGroup = 83CBBA001A601CBA00E9B192 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				13B07F861A680F5B00A75B9A /* AncientWarsCenturionTactic */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		13B07F8E1A680F5B00A75B9A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
+				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				CCB0FAF2ACB937E5C6715098 /* PrivacyInfo.xcprivacy in Resources */,
+				212FFDD04F3F49059358E349 /* bottomtabs5.png in Resources */,
+				8D7C81F8827F424E8806AFE7 /* bottomtabs4.png in Resources */,
+				FCCE9B6FFF064A0A86632D32 /* bottomtabs3.png in Resources */,
+				EDC9E87F9C88496EAEBAAAD3 /* bottomtabs2.png in Resources */,
+				ACBD591D071A4036A2D69F68 /* loaderbg.png in Resources */,
+				B7CA399DCB5D47B3985F4D30 /* bottomtabs1.png in Resources */,
+				BE7F6580E47E4B3AB6A82E7A /* Cinzel-Black.ttf in Resources */,
+				59E24EAD468548289E7136F7 /* Cinzel-Bold.ttf in Resources */,
+				3C1D97D285DF48A4898240B7 /* Cinzel-SemiBold.ttf in Resources */,
+				3C868FCEEC60447AAF533898 /* Cinzel-Medium.ttf in Resources */,
+				2BB484AD9D2D48BD9B5BCEA4 /* Cinzel-Regular.ttf in Resources */,
+				2B4A5F463A784FE6A5A0B046 /* Cinzel-ExtraBold.ttf in Resources */,
+				569FA6109AB749C7A47EFE11 /* appbg.png in Resources */,
+				7400EF374265438688A6110C /* onboardinghero3.png in Resources */,
+				2BA67ABC74BA44A6BDD0501E /* onboardinghero2.png in Resources */,
+				65929FB43A914FB8BB6E5D22 /* appicon.png in Resources */,
+				42D9F9B2C1014B8F96328839 /* onboardinghero1.png in Resources */,
+				21A3DEF7E3D047BD964657AC /* battlegaugamela.png in Resources */,
+				22CBDF35548849F4B3962796 /* battlehimera.png in Resources */,
+				7B5EBB8C8BE641659B2DA988 /* battlezama.png in Resources */,
+				1184C96B3D834CDB8C282175 /* battleplataea.png in Resources */,
+				DCD33B7487C44BDFAA1BADEA /* battleactium.png in Resources */,
+				A7F88F4F343245BE85E78AF5 /* battlehydaspes.png in Resources */,
+				17908C9B264F4C6E81CB3176 /* battlesalamis.png in Resources */,
+				C1628DC194B74EBEAF7B8E21 /* shareicon.png in Resources */,
+				C6A1E2DADC0C4B48ADD9ACF7 /* battlemagnesia.png in Resources */,
+				DE1D627B440146CD8BBB2A29 /* battlechaeronea.png in Resources */,
+				802BE66973CE41CCB6CE3894 /* battlemycale.png in Resources */,
+				8C00967713AE43169E8A9C77 /* battlepydna.png in Resources */,
+				3A9F37E8A96E4707852A90A3 /* battledelium.png in Resources */,
+				FEA4A25C34BF4F628FD960C1 /* battlegranicus.png in Resources */,
+				F2D80C92AB7F4543A02DFC55 /* battlecannae.png in Resources */,
+				7F0B748182794C5189C75630 /* battlemantinea.png in Resources */,
+				08535F2F64A5407A997B3657 /* battlecarrhae.png in Resources */,
+				C2CB19A86B3A4982B8C34540 /* battletrasimene.png in Resources */,
+				377C578F95244A7BA0A2D30D /* battlemarathon.png in Resources */,
+				CDB979AE1B124CF187A9AFCD /* battleaegospotami.png in Resources */,
+				9E0F6733E7404E2AAE897C5F /* battleleuctra.png in Resources */,
+				A29D2398AF164D808A7FEA23 /* battlecynoscephalae.png in Resources */,
+				0401A83448D046DE94673942 /* battleissus.png in Resources */,
+				CA066750B5FC46BCAFE9CA71 /* battlebethoron.png in Resources */,
+				34F1BEC6A9E34017A254C703 /* battlearbela.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"$(SRCROOT)/.xcode.env.local",
+				"$(SRCROOT)/.xcode.env",
+			);
+			name = "Bundle React Native code and images";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "set -e\n\nWITH_ENVIRONMENT=\"$REACT_NATIVE_PATH/scripts/xcode/with-environment.sh\"\nREACT_NATIVE_XCODE=\"$REACT_NATIVE_PATH/scripts/react-native-xcode.sh\"\n\n/bin/sh -c \"$WITH_ENVIRONMENT $REACT_NATIVE_XCODE\"\n";
+		};
+		00EEFC60759A1932668264C0 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-AncientWarsCenturionTactic/Pods-AncientWarsCenturionTactic-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-AncientWarsCenturionTactic/Pods-AncientWarsCenturionTactic-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-AncientWarsCenturionTactic/Pods-AncientWarsCenturionTactic-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C38B50BA6285516D6DCD4F65 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-AncientWarsCenturionTactic-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		E235C05ADACE081382539298 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-AncientWarsCenturionTactic/Pods-AncientWarsCenturionTactic-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-AncientWarsCenturionTactic/Pods-AncientWarsCenturionTactic-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-AncientWarsCenturionTactic/Pods-AncientWarsCenturionTactic-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		13B07F871A680F5B00A75B9A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				761780ED2CA45674006654EE /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		13B07F941A680F5B00A75B9A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3B4392A12AC88292D35C810B /* Pods-AncientWarsCenturionTactic.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_ENTITLEMENTS = AncientWarsCenturionTactic/AncientWarsCenturionTactic.entitlements;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_BITCODE = NO;
+				INFOPLIST_FILE = AncientWarsCenturionTactic/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.1;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-ObjC",
+					"-lc++",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.kwuqmf.jgur.iiwpw;
+				PRODUCT_NAME = AncientWarsCenturionTactic;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				VERSIONING_SYSTEM = "apple-generic";
+			};
+			name = Debug;
+		};
+		13B07F951A680F5B00A75B9A /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5709B34CF0A7D63546082F79 /* Pods-AncientWarsCenturionTactic.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_ENTITLEMENTS = AncientWarsCenturionTactic/AncientWarsCenturionTactic.entitlements;
+				CURRENT_PROJECT_VERSION = 1;
+				INFOPLIST_FILE = AncientWarsCenturionTactic/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.1;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-ObjC",
+					"-lc++",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.kwuqmf.jgur.iiwpw;
+				PRODUCT_NAME = AncientWarsCenturionTactic;
+				SWIFT_VERSION = 5.0;
+				VERSIONING_SYSTEM = "apple-generic";
+			};
+			name = Release;
+		};
+		83CBBA201A601CBA00E9B192 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "c++20";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.1;
+				LD_RUNPATH_SEARCH_PATHS = (
+					/usr/lib/swift,
+					"$(inherited)",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"\"$(SDKROOT)/usr/lib/swift\"",
+					"\"$(TOOLCHAIN_DIR)/usr/lib/swift/$(PLATFORM_NAME)\"",
+					"\"$(inherited)\"",
+				);
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				OTHER_CPLUSPLUSFLAGS = (
+					"$(OTHER_CFLAGS)",
+					"-DFOLLY_NO_CONFIG",
+					"-DFOLLY_MOBILE=1",
+					"-DFOLLY_USE_LIBCPP=1",
+					"-DFOLLY_CFG_NO_COROUTINES=1",
+					"-DFOLLY_HAVE_CLOCK_GETTIME=1",
+				);
+				OTHER_LDFLAGS = "$(inherited)  ";
+				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) DEBUG";
+				USE_HERMES = true;
+			};
+			name = Debug;
+		};
+		83CBBA211A601CBA00E9B192 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "c++20";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.1;
+				LD_RUNPATH_SEARCH_PATHS = (
+					/usr/lib/swift,
+					"$(inherited)",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"\"$(SDKROOT)/usr/lib/swift\"",
+					"\"$(TOOLCHAIN_DIR)/usr/lib/swift/$(PLATFORM_NAME)\"",
+					"\"$(inherited)\"",
+				);
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_CPLUSPLUSFLAGS = (
+					"$(OTHER_CFLAGS)",
+					"-DFOLLY_NO_CONFIG",
+					"-DFOLLY_MOBILE=1",
+					"-DFOLLY_USE_LIBCPP=1",
+					"-DFOLLY_CFG_NO_COROUTINES=1",
+					"-DFOLLY_HAVE_CLOCK_GETTIME=1",
+				);
+				OTHER_LDFLAGS = "$(inherited)  ";
+				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
+				SDKROOT = iphoneos;
+				USE_HERMES = true;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "AncientWarsCenturionTactic" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				13B07F941A680F5B00A75B9A /* Debug */,
+				13B07F951A680F5B00A75B9A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "AncientWarsCenturionTactic" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				83CBBA201A601CBA00E9B192 /* Debug */,
+				83CBBA211A601CBA00E9B192 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 83CBB9F71A601CBA00E9B192 /* Project object */;
+}
